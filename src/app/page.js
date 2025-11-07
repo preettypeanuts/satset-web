@@ -10,7 +10,7 @@ export default function Home() {
           width={400}
           height={20}
           priority
-          className="-ml-22 h-45 object-cover"
+          className="md:-ml-22 h-45 object-cover"
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className=" text-3xl font-semibold leading-10 tracking-tight text-neutral-600">
