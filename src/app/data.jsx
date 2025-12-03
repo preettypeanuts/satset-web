@@ -8,7 +8,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747152/Porto/ganesha_11_11zon_rrm9zp.webp",
         companyName: "Ganesha Consulting",
         brandName: "Ganesha Consulting",
-        features: ["CMS", "Articles", "Dynamic Content", "Corporate Services"],
+        features: ["CMS", "Articles", "Dynamic Content", "Corporate Services", "Activities"],
         kind: "Corporate Web System"
     },
     {
@@ -17,7 +17,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747145/Porto/gabdig_9_11zon_ndcgjv.webp",
         companyName: "GAB",
         brandName: "GAB DIGITAL",
-        features: ["CMS", "Multi-service", "Team Page"],
+        features: ["CMS", "Multi-service", "Products Page"],
         kind: "Corporate Website"
     },
     {
@@ -35,7 +35,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747146/Porto/ganapatih_10_11zon_tl1yjl.webp",
         companyName: "Ganapatih",
         brandName: "Ganapatih",
-        features: ["CMS Products", "E-commerce Prototype"],
+        features: ["CMS Products", "E-commerce Static"],
         kind: "Product Catalog Website"
     },
 
@@ -93,7 +93,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747146/Porto/devi_6_11zon_gun3dq.webp",
         companyName: "Budevi",
         brandName: "Budevi",
-        features: ["Products", "CTA"],
+        features: ["Products", "CTA", "Print Products"],
         kind: "Company Profile"
     },
     {
@@ -102,7 +102,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747149/Porto/wahyu_24_11zon_hebrmf.webp",
         companyName: "PT Wahyu",
         brandName: "Wahyu",
-        features: ["Company Profile"],
+        features: ["Company Profile", "Articles"],
         kind: "Company Profile"
     },
 
@@ -115,7 +115,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747148/Porto/medlife_19_11zon_lz1nv3.webp",
         companyName: "Medlife",
         brandName: "Medlife",
-        features: ["CTA", "Service Focused"],
+        features: ["CTA", "Products Focused"],
         kind: "Landing Page"
     },
     {
@@ -124,7 +124,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747145/Porto/bharata_1_11zon_lwfutt.webp",
         companyName: "Bharata Fresh",
         brandName: "Bharata Fresh Bali",
-        features: ["CTA", "Promo Section"],
+        features: ["CTA", "Product Section"],
         kind: "Landing Page"
     },
     {
@@ -142,7 +142,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747147/Porto/jasmine_13_11zon_hxl2hi.webp",
         companyName: "Savier Jasmine",
         brandName: "Jasmine",
-        features: ["Offer Landing"],
+        features: ["Brand Landing"],
         kind: "Landing Page"
     },
     {
@@ -151,7 +151,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747147/Porto/kalanesia_15_11zon_buwuf6.webp",
         companyName: "Kalanesia",
         brandName: "Kalanesia",
-        features: ["Brand Story"],
+        features: ["Brand Landing"],
         kind: "Landing Page"
     },
     {
@@ -160,7 +160,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747145/Porto/buildify_4_11zon_oz43z0.webp",
         companyName: "Buildify",
         brandName: "Buildify",
-        features: ["Prototype"],
+        features: ["Brand Landing"],
         kind: "Landing Page"
     },
     {
@@ -169,7 +169,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747148/Porto/sgw_21_11zon_gywqzn.webp",
         companyName: "SGW Indo Logistik",
         brandName: "SGW",
-        features: ["CTA"],
+        features: ["CTA Company Landing"],
         kind: "Landing Page"
     },
     {
@@ -177,8 +177,8 @@ export const portfolioData = [
         category: "Landing Page",
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747146/Porto/elka_8_11zon_lokqha.webp",
         companyName: "PT EMS",
-        brandName: "EMS",
-        features: ["CTA Landing"],
+        brandName: "Elka Mitra Sejahtera",
+        features: ["Product Landing"],
         kind: "Landing Page"
     },
     {
@@ -187,7 +187,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747147/Porto/krek_16_11zon_su0tsi.webp",
         companyName: "Krek",
         brandName: "Krek",
-        features: ["Promo Landing"],
+        features: ["Product Landing"],
         kind: "Landing Page"
     },
     {
@@ -196,7 +196,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747146/Porto/dracing_7_11zon_ii2q0p.webp",
         companyName: "D Racing",
         brandName: "8DRACING",
-        features: ["Event Landing"],
+        features: ["Product Landing"],
         kind: "Landing Page"
     },
     {
@@ -218,7 +218,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747149/Porto/superclean_22_11zon_klzncc.webp",
         companyName: "Superclean",
         brandName: "Superclean CMS",
-        features: ["Admin CRUD", "Blog Manager"],
+        features: ["Admin CRUD", "System Management"],
         kind: "CMS Platform"
     },
     {
@@ -227,7 +227,7 @@ export const portfolioData = [
         imagePreview: "https://res.cloudinary.com/dr5dlofvv/image/upload/v1764747145/Porto/cms-ganesha_5_11zon_xmx69g.webp",
         companyName: "Ganesha CMS System",
         brandName: "Ganesha CMS",
-        features: ["Custom CMS", "User Management"],
+        features: ["Custom CMS", "User Management", "CRUD", "Blog Manager", "Post Admin"],
         kind: "CMS Platform"
     }
 ];
