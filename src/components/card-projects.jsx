@@ -47,7 +47,7 @@ export const CardProjects = ({ data }) => {
                                         ))}
                                     </div>
                                 </div>
-                                <div className="rounded-lg overflow-hidden relative">
+                                <div className="rounded-lg overflow-hidden relative shadow-custom">
                                     <Image
                                         width={500}
                                         height={500}
