@@ -71,7 +71,7 @@ const ProjectCard = ({ project }) => {
                     />
                     <div className="absolute inset-0 group-hover:backdrop-blur-min group-hover:bg-darkColor/20 duration-300 ease-in-out">
                         <div className="flex items-center justify-center w-full h-full">
-                            <div className="group-hover:scale-100 scale-0 duration-300 px-3 py-1 bg-white rounded-full text-xs">
+                            <div className="group-hover:scale-100 scale-0 duration-300 px-3 py-1 bg-white text-black rounded-full text-xs">
                                 View
                             </div>
                         </div>
