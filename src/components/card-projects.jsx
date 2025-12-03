@@ -94,7 +94,7 @@ export const CardProjects = ({ data, isLoading = false, skeletonCount = 6 }) => 
                 </h1>
             </div>
 
-            <div className="mx-4 md:mx-10 mb-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+            <div className="px-4 md:px-10 pb-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
                 {isLoading ? (
                     // Render Skeleton Cards
                     Array.from({ length: skeletonCount }).map((_, idx) => (
