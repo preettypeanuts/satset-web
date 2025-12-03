@@ -53,7 +53,7 @@ const ProjectCard = ({ project }) => {
                         {project.features?.slice(0, 3).map((feature, fIdx) => (
                             <span
                                 key={fIdx}
-                                className="px-2 py-0.5 text-[10px] tracking-wide bg-darkColor/10 rounded-full"
+                                className="px-2 py-0.5 text-[10px] tracking-wide bg-darkColor/10 text-darkColor rounded-full"
                             >
                                 {feature}
                             </span>
